@@ -8,6 +8,7 @@ class FriendList extends Component {
     state = {
         friends: []
     }
+    // finished
 
     componentDidMount() {
         this.getData();
